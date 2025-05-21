@@ -1,0 +1,49 @@
+# .NET Core
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Local development settings
+appsettings.Development.json
+
+# VS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Rider
+.idea/
+
+# Misc
+.DS_Store
